@@ -9,7 +9,7 @@
 - 🌱 Experienced with **Fiori Elements, CAPM, BAS, BTP, Workzone**
 - ⚡ Passionate about **UI/UX + Clean Code + Cloud Deployments**
 - 💬 Ask me about **UI5, Launchpad, pdfMake, CAP, Destinations, GitHub**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **sumansenapati9933@gmail.com**
 
 ---
 
