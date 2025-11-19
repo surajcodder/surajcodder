@@ -1,3 +1,4 @@
+![banner](banner.png)
 <h1 align="center">Hi 👋, I'm Suman Senapati</h1>
 <h3 align="center">SAP Fiori | UI5 | BTP Developer</h3>
 
