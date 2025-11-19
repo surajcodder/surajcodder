@@ -1,5 +1,4 @@
-![banner](BLack Minimalist Corporate Staff Identity LinkedIn Banner.jpg
-)
+![banner](banner.jpg)
 <h1 align="center">Hi 👋, I'm Suman Senapati</h1>
 <h3 align="center">SAP Fiori | UI5 | BTP Developer</h3>
 
