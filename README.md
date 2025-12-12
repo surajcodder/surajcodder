@@ -49,11 +49,11 @@ I specialize in building **Fiori apps, UI5 custom apps, BTP deployments, OData i
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Enhanced)
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=surajcodder&show_icons=true&theme=react&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajcodder&layout=compact&theme=react&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=surajcodder&show_icons=true&theme=react&hide_border=true&title=Suman's%20Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajcodder&layout=compact&theme=react&hide_border=true&langs_count=6" />
 </p>
 
 ---
@@ -65,6 +65,15 @@ I specialize in building **Fiori apps, UI5 custom apps, BTP deployments, OData i
 </p>
 
 ---
+
+
+## ⚡ Recent GitHub Activity
+
+<p align="center">
+  <img src="https://activity-graph.pro/github-activity-graph.svg?username=surajcodder&theme=github" />
+</p>
+
+
 
 ## 🚀 Featured SAP Projects
 
