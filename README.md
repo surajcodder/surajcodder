@@ -61,7 +61,7 @@ I specialize in bridging the gap between complex business requirements and seaml
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.pro/github-activity-graph.svg?username=surajcodder&theme=dracula&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajcodder&theme=react-dark&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
