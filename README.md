@@ -5,11 +5,11 @@
 <h1 align="center">Suman Senapati</h1>
 
 <p align="center">
-  <code>SAP BTP</code> &nbsp;·&nbsp; <code>Fiori</code> &nbsp;·&nbsp; <code>UI5</code> &nbsp;·&nbsp; <code>CAP</code> &nbsp;·&nbsp; <code>OData V4</code>
+  <code>SAP BTP</code> &nbsp;·&nbsp; <code>Fiori</code> &nbsp;·&nbsp; <code>UI5</code> &nbsp;·&nbsp; <code>CAP</code> &nbsp;·&nbsp; <code>OData V4</code> &nbsp;·&nbsp; <code>HANA Cloud</code>
 </p>
 
 <p align="center">
-  Building intelligent enterprise experiences — bridging complex business requirements<br/>with clean, high-performance UI on the SAP Business Technology Platform.
+  SAP Technical Associate Consultant with ~2 years of hands-on experience designing, developing,<br/>and configuring SAP UI5/Fiori applications and SAP BTP cloud-native solutions.
 </p>
 
 <p align="center">
@@ -21,6 +21,10 @@
     <img src="https://img.shields.io/badge/GitHub-@surajcodder-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
+  <a href="mailto:sumansenapati9933@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sumansenapati9933@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-1D9E75?style=for-the-badge" />
 </p>
 
@@ -30,92 +34,133 @@
 
 <table align="center">
   <tr>
-    <td align="center"><h2>40%</h2><sub>faster data retrieval</sub></td>
-    <td align="center"><h2>500+</h2><sub>man-hours saved / yr</sub></td>
-    <td align="center"><h2>500+</h2><sub>daily active users served</sub></td>
+    <td align="center"><h2>450+</h2><sub>Fiori apps deployed</sub></td>
+    <td align="center"><h2>6</h2><sub>custom projects built</sub></td>
+    <td align="center"><h2>~2 yrs</h2><sub>enterprise SAP experience</sub></td>
+    <td align="center"><h2>8.69</h2><sub>MCA CGPA</sub></td>
   </tr>
 </table>
 
 ---
 
-## About Me
+## Profile Summary
 
-I specialize in bridging the gap between complex business requirements and seamless user experiences. My expertise lies in the **SAP Business Technology Platform (BTP)** ecosystem, where I build scalable, high-performance applications.
+SAP BTP and Fiori Consultant with nearly 2 years of hands-on experience in designing, developing, and configuring SAP UI5/Fiori applications and SAP BTP solutions. Proven experience in SAP S/4HANA Public and Private Cloud environments, Build Process Automation workflows, and CAP-based service consumption. Strong expertise in OData integration, role-based access configuration, and end-to-end application delivery, with a growing focus on cloud-native development and scalable enterprise solutions.
 
-- 🔭 **Currently building:** Advanced Fiori Elements & CAP-based microservices
-- 🌱 **Expanding into:** SAP Build & Process Automation (LCAP/No-Code)
-- 💬 **Ask me about:** UI5 MVC architecture, OData V4 integration, BTP Cloud Foundry deployments
-- ⚡ **Goal:** Optimizing enterprise workflows through clean code and intuitive design
-- 📍 **Location:** Kolkata, India
+- 🔭 **Currently building:** Advanced Fiori Elements, CAP microservices & SAP Build Process Automation workflows
+- 🌱 **Expanding into:** LCAP / Low-Code / No-Code on SAP Build platform
+- 💬 **Ask me about:** UI5 MVC architecture, OData V4, XSUAA, BTP Cloud Foundry, HANA Cloud
+- 📍 **Location:** Kolkata, West Bengal, India
 
 ---
 
 ## Tech Stack
 
-**SAP Core**
+**SAP BTP & Cloud**
 
-![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![SAPUI5](https://img.shields.io/badge/SAPUI5-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![CAP CDS](https://img.shields.io/badge/CAP%20CDS-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![SAP BAS](https://img.shields.io/badge/SAP%20BAS-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0FAAFF?style=flat-square)
+![BAS](https://img.shields.io/badge/SAP%20BAS-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Build Process Automation](https://img.shields.io/badge/Build%20Process%20Automation-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Build Workzone](https://img.shields.io/badge/Build%20Workzone-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![HANA Cloud](https://img.shields.io/badge/HANA%20Cloud-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![HDI Containers](https://img.shields.io/badge/HDI%20Containers-0FAAFF?style=flat-square)
+![XSUAA](https://img.shields.io/badge/XSUAA-0FAAFF?style=flat-square)
+![Destinations](https://img.shields.io/badge/Destinations-0FAAFF?style=flat-square)
+![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0096FF?style=flat-square)
 
-**Backend / API**
+**Application Development**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![OData V4](https://img.shields.io/badge/OData%20V4-73AD21?style=flat-square)
-![OData V2](https://img.shields.io/badge/OData%20V2-73AD21?style=flat-square)
+![SAPUI5](https://img.shields.io/badge/SAPUI5-1D9E75?style=flat-square&logo=sap&logoColor=white)
+![Fiori Elements](https://img.shields.io/badge/Fiori%20Elements-1D9E75?style=flat-square)
+![Fiori Freestyle](https://img.shields.io/badge/Fiori%20Freestyle-1D9E75?style=flat-square)
+![CAP Node.js](https://img.shields.io/badge/CAP%20Node.js-1D9E75?style=flat-square)
+![OData V4](https://img.shields.io/badge/OData%20V4-1D9E75?style=flat-square)
+![OData V2](https://img.shields.io/badge/OData%20V2-1D9E75?style=flat-square)
+
+**Programming & Web**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frontend**
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Fiori Elements](https://img.shields.io/badge/Fiori%20Elements-0FAAFF?style=flat-square)
-![pdfMake](https://img.shields.io/badge/pdfMake-E34F26?style=flat-square)
-
-**Tooling**
-
+![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat-square&logo=google-maps&logoColor=white)
+
+**S/4HANA & Configuration**
+
+![S/4HANA Public](https://img.shields.io/badge/S%2F4HANA%20Public%20Cloud-7F77DD?style=flat-square)
+![S/4HANA Private](https://img.shields.io/badge/S%2F4HANA%20Private%20Cloud-7F77DD?style=flat-square)
+![Fiori Activation](https://img.shields.io/badge/Fiori%20Activation-7F77DD?style=flat-square)
+![Launchpad Config](https://img.shields.io/badge/Launchpad%20Config-7F77DD?style=flat-square)
+![Theme Designer](https://img.shields.io/badge/Theme%20Designer-7F77DD?style=flat-square)
+![SAP Web IDE](https://img.shields.io/badge/SAP%20Web%20IDE-7F77DD?style=flat-square)
+
+---
+
+## Professional Experience
+
+### SAP Fiori Consultant — Infocus Technology, Kolkata
+`May 2025 – Present`
+
+- Configured and deployed **100+ Fiori apps** in S/4HANA Public Cloud and **350+ apps** in S/4HANA Private Cloud with secure role-based access and optimized Launchpad usability.
+- Designed custom reporting for Meter Reading scenarios and MIS dashboards with Excel extraction via BAS and Eclipse ADT.
+- Built a custom **Vendor History** SAPUI5 app integrating OData services for real-time vendor data visibility.
+- Implemented **My Inbox** configurations for workflow-driven approvals and personalized task management.
+- Delivered **Certificate of Origin** digital forms enabling automated generation and submission.
+- Developed **Sales Order BOM Report** as a custom analytical/list report application.
+- Designed **Smart Inventory Management** on BTP Cloud Foundry using CDS Views and HANA Cloud Database.
+- Built **Fleet Tracker** integrating Google Maps API for real-time truck location tracking via driver phone numbers.
+
+### SAP Technical Associate Consultant — PEOL Technologies Pvt. Ltd., Bangalore
+`March 2024 – April 2025`
+
+- Developed custom approval workflows using **SAP Build Process Automation** with dynamic forms and task orchestration (Mahindra RFP).
+- Configured SMTP-based email notifications and managed BTP Destinations for S/4HANA backend integration.
+- Implemented **XSUAA**-based authentication and authorization across BTP applications.
+- Consumed OData services via **SAP Cloud Connector** for secure cloud-to-on-premise integration.
 
 ---
 
 ## Featured Projects
 
-### 📦 Vendor History Application
-
-> **Problem:** High latency in retrieving historical procurement data for 500+ daily users.
-
-Built a custom SAPUI5 application on **SAP BTP** with optimized OData batch processing, dramatically reducing retrieval times and improving user satisfaction across the procurement team.
-
-**Result: 40% reduction in data retrieval time**
-
-`SAPUI5` `SAP BTP` `OData Batch` `MVC Architecture` `Cloud Foundry`
+### Smart Inventory Management `BTP · HANA Cloud · CAP`
+Internal solution on SAP BTP Cloud Foundry — leverages BAS, CDS Views, and SAP HANA Cloud to model inventory data, track stock movement, and enable real-time reporting.
 
 ---
 
-### 📄 Certificate of Origin PDF Generator
-
-> **Problem:** Manual generation of logistics documentation was slow and error-prone.
-
-Leveraged `pdfMake` and UI5 to build a dynamic, paginated PDF engine embedded directly in the Fiori Launchpad — fully automated document generation for the logistics team.
-
-**Result: ~2 hours saved per day → 500+ man-hours annually**
-
-`pdfMake` `Fiori Launchpad` `SAPUI5` `Process Automation`
+### Fleet Tracker `UI5 · Google Maps API`
+SAP UI5 application integrating Google Maps API for real-time truck location tracking via driver phone numbers — significantly enhanced logistics visibility and fleet coordination.
 
 ---
 
-## Currently Focused On
+### Vendor History Application `UI5 · OData Batch`
+Custom SAPUI5 app for 500+ daily users. Optimized OData batch processing reduced procurement data retrieval time by **40%** with measurably improved user satisfaction.
 
-| # | Area |
-|---|------|
-| 01 | Advanced Fiori Elements and CAP-based microservices for scalable BTP architectures |
-| 02 | SAP Build and Process Automation — expanding into the LCAP/No-Code space |
-| 03 | Optimizing enterprise workflows via clean UI5 MVC patterns and OData V4 integration |
+---
+
+### Certificate of Origin PDF Generator `pdfMake · Fiori Launchpad`
+Dynamic paginated PDF engine inside the Fiori Launchpad using pdfMake — eliminated manual logistics documentation, saving **~2 hours/day → 500+ man-hours annually**.
+
+---
+
+### Approval Workflow Engine `SAP Build Process Automation`
+Custom workflows with dynamic approval forms, task orchestration, and SMTP notifications built for Mahindra RFP at PEOL Technologies.
+
+---
+
+### Sales Order BOM + Meter Reading Reports `Fiori Elements · S/4HANA`
+Custom analytical and list report applications in S/4HANA Public Cloud improving reporting accuracy, business transparency, and operational data analysis.
+
+---
+
+## Education
+
+| Degree | Institution | CGPA | Year |
+|--------|-------------|------|------|
+| Master of Computer Applications (MCA) | New Horizon College of Engineering | 8.69 | 2023 – 2024 |
+| B.Sc. Computer Science | Panskura Banamali College | 8.63 | 2019 – 2022 |
 
 ---
 
@@ -133,13 +178,20 @@ Leveraged `pdfMake` and UI5 to build a dynamic, paginated PDF engine embedded di
 
 ---
 
+## Languages
+
+`English` &nbsp; `Hindi` &nbsp; `Bengali`
+
+---
+
 ## Let's Connect
 
-Open to collaborating on SAP BTP, Fiori, or enterprise UI projects. If you have a performance problem, a workflow to automate, or a complex data surface to simplify — let's talk.
+Open to collaborating on SAP BTP, Fiori, UI5, or cloud-native enterprise projects — especially around performance optimization, workflow automation, or complex data reporting.
 
 - 💼 **LinkedIn:** [Suman Senapati](https://www.linkedin.com/in/suman-senapati-7520b4215)
 - 🐙 **GitHub:** [@surajcodder](https://github.com/surajcodder)
-- 📧 **Email:** `sumansenapati9933@gmail.com`
+- 📧 **Email:** [sumansenapati9933@gmail.com](mailto:sumansenapati9933@gmail.com)
+- 📞 **Phone:** +91-6296339036
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=surajcodder&label=Profile%20Views&color=0FAAFF&style=flat" alt="Profile Views" />
