@@ -139,7 +139,7 @@ Open to collaborating on SAP BTP, Fiori, or enterprise UI projects. If you have 
 
 - 💼 **LinkedIn:** [Suman Senapati](https://www.linkedin.com/in/suman-senapati-7520b4215)
 - 🐙 **GitHub:** [@surajcodder](https://github.com/surajcodder)
-- 📧 **Email:** `your.email@here.com`
+- 📧 **Email:** `sumansenapati9933@gmail.com`
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=surajcodder&label=Profile%20Views&color=0FAAFF&style=flat" alt="Profile Views" />
