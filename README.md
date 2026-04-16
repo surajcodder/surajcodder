@@ -153,14 +153,6 @@ Custom workflows with dynamic approval forms, task orchestration, and SMTP notif
 ### Sales Order BOM + Meter Reading Reports `Fiori Elements · S/4HANA`
 Custom analytical and list report applications in S/4HANA Public Cloud improving reporting accuracy, business transparency, and operational data analysis.
 
----
-
-## Education
-
-| Degree | Institution | CGPA | Year |
-|--------|-------------|------|------|
-| Master of Computer Applications (MCA) | New Horizon College of Engineering | 8.69 | 2023 – 2024 |
-| B.Sc. Computer Science | Panskura Banamali College | 8.63 | 2019 – 2022 |
 
 ---
 
