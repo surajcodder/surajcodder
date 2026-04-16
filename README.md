@@ -35,7 +35,7 @@
 <table align="center">
   <tr>
     <td align="center"><h2>450+</h2><sub>Fiori apps deployed</sub></td>
-    <td align="center"><h2>6</h2><sub>custom projects built</sub></td>
+    <td align="center"><h2>12</h2><sub>custom projects built</sub></td>
     <td align="center"><h2>~2 yrs</h2><sub>enterprise SAP experience</sub></td>
     <td align="center"><h2>8.69</h2><sub>MCA CGPA</sub></td>
   </tr>
