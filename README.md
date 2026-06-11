@@ -46,7 +46,7 @@
 
 | 📊 **Deployments** | 💼 **Projects** | ⏱️ **Experience** | 🏆 **Achievement** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/450+-Fiori%20Apps-0FAAFF?style=flat-square&logo=rocket" /> | ![Dynamic Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsurajcodder&query=public_repos&label=Public%20Repos&color=1D9E75&style=flat-square&logo=github&logoColor=white) | <img src="https://img.shields.io/badge/2%2B%20Years-SAP%20Tech-7F77DD?style=flat-square&logo=clockify" /> | <img src="https://img.shields.io/badge/100%25-Client%20Satisfaction-0FAAFF?style=flat-square&logo=star" /> |
+| <img src="https://img.shields.io/badge/450+-Fiori%20Apps-0FAAFF?style=flat-square&logo=rocket" /> | ![Dynamic Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsurajcodder&query=public_repos&label=Public%20Repos&color=1D9E75&style=flat-square&logo=github&logoColor=white) | ![Experience Badge](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/surajcodder/surajcodder/main/experience.json&query=experience&label=Since%20Mar%202024&color=7F77DD&style=flat-square&logo=calendar&logoColor=white) | <img src="https://img.shields.io/badge/100%25-Client%20Satisfaction-0FAAFF?style=flat-square&logo=star" /> |
 
 </div>
 
@@ -158,77 +158,6 @@
 ![SAP Web IDE](https://img.shields.io/badge/SAP%20Web%20IDE-7F77DD?style=for-the-badge)
 
 </div>
-
-<br/>
-
----
-
-## 💼 Professional Experience
-
-### 🎯 **SAP Fiori Consultant**
-**Infocus Technology, Kolkata** | *May 2025 – Present*
-
-<details open>
-<summary><strong>📋 View Experience Highlights</strong></summary>
-
-```
-🚀 Deployed 100+ Fiori apps in S/4HANA Public Cloud & 350+ in Private Cloud
-   └─ Implemented role-based access control & optimized Launchpad usability
-
-📊 Designed custom reporting solutions
-   ├─ Meter Reading MIS dashboards
-   ├─ Excel extraction via BAS & Eclipse ADT
-   └─ Business intelligence dashboards
-
-🔌 Built custom SAPUI5 applications
-   ├─ Vendor History App (Real-time OData Integration)
-   ├─ Fleet Tracker (Google Maps API)
-   └─ Smart Inventory Management (BTP Cloud Foundry)
-
-✅ Implemented enterprise workflows
-   ├─ My Inbox configurations for approval automation
-   ├─ Certificate of Origin digital forms
-   └─ Sales Order BOM Report applications
-
-💾 Designed Smart Inventory Management on BTP
-   ├─ HANA Cloud Database architecture
-   ├─ CDS Views implementation
-   └─ Real-time reporting capabilities
-```
-
-</details>
-
----
-
-### 🏢 **SAP Technical Associate Consultant**
-**PEOL Technologies Pvt. Ltd., Bangalore** | *March 2024 – April 2025*
-
-<details>
-<summary><strong>📋 View Experience Highlights</strong></summary>
-
-```
-🔄 Custom Approval Workflows (SAP Build Process Automation)
-   ├─ Dynamic form orchestration
-   ├─ Task management systems
-   └─ Mahindra RFP implementation
-
-📧 Enterprise integration solutions
-   ├─ SMTP-based notifications
-   ├─ BTP Destinations configuration
-   └─ Backend integration patterns
-
-🔐 Authentication & Authorization
-   ├─ XSUAA implementation
-   ├─ Multi-tenant BTP applications
-   └─ Security policies
-
-🌉 Cloud-to-On-Premise Integration
-   ├─ SAP Cloud Connector setup
-   ├─ Secure OData service consumption
-   └─ Hybrid architecture design
-```
-
-</details>
 
 <br/>
 
