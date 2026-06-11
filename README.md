@@ -40,13 +40,38 @@
 
 ---
 
+## 🎨 Animations Gallery
+
+<div align="center">
+
+### 💻 Coding
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnYxMjUzMW5jdTF2ZGlhdTZ5bHUzcjRnZG9ta3o5bWh6YXFmdWo4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sGIxhunddTUOHlHXgu/giphy.gif" alt="Coding Animation" width="200" />
+
+### 👤 Profile
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Q1b3A4MnNodjZ1d3lqeHRjZ3htZmtkM210dXY5ZnFrNHFycGR5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fuCJ9uhlCa1OpueXi0/giphy.gif" alt="Profile Animation" width="200" />
+
+### 👋 Hi
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFxcGtvNjJjbWtvZ3hkajlqeGE0aXpvbXRsbndmMWMycjllaGxkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Wj7lNjMNDxSmc/giphy.gif" alt="Hi Animation" width="200" />
+
+### 👋 Bye
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBqbWVzeXBmcmkxZXRoejN3NzN4aHpxZGF2cXN3YTd5bm40ajE2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8wrfLwp3wkSdRR6bQ9/giphy.gif" alt="Bye Animation" width="200" />
+
+### 🎌 Random Anime
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd4bjhxYnAxZWtjNGJ1cG0ydWNrNmhicDk2dGtoZnpxNTZpdXI2NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13cswZEvNJM7ZK/giphy.gif" alt="Random Anime Animation" width="200" />
+
+</div>
+
+<br/>
+
+---
+
 ## 🎯 Impact at a Glance
 
 <div align="center">
 
 | 📊 **Deployments** | 💼 **Projects** | ⏱️ **Experience** | 🏆 **Achievement** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/450+-Fiori%20Apps-0FAAFF?style=flat-square&logo=rocket" /> | ![Dynamic Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsurajcodder&query=public_repos&label=Public%20Repos&color=1D9E75&style=flat-square&logo=github&logoColor=white) | ![Experience Badge](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/surajcodder/surajcodder/main/experience.json&query=experience&label=Since%20Mar%202024&color=7F77DD&style=flat-square&logo=calendar&logoColor=white) | <img src="https://img.shields.io/badge/100%25-Client%20Satisfaction-0FAAFF?style=flat-square&logo=star" /> |
+| <img src="https://img.shields.io/badge/450+-Fiori%20Apps-0FAAFF?style=flat-square&logo=rocket" /> | ![Dynamic Repos](https://img.shields.io/badge/15+-Projects-0FAAFF?style=flat-square&logo=github" /> | <img src="https://img.shields.io/badge/5+-Years-0FAAFF?style=flat-square&logo=clock" /> | <img src="https://img.shields.io/badge/Enterprise%20Scale-Solutions-1D9E75?style=flat-square&logo=star" /> |
 
 </div>
 
@@ -248,9 +273,9 @@ Custom analytical and list report applications for business intelligence.
 
 <div align="center">
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=surajcodder&show_icons=true&theme=material-palenight&hide_border=false&title_color=0FAAFF&icon_color=0FAAFF&bg_color=0D1117" alt="GitHub Stats" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=surajcodder&show_icons=true&theme=material-palenight&hide_border=false&title_color=0FAAFF&icon_color=0FAAFF&bg_color=0D1117&text_color=0FAAFF" alt="GitHub Stats" />
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajcodder&layout=compact&theme=material-palenight&hide_border=false&title_color=0FAAFF&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajcodder&layout=compact&theme=material-palenight&hide_border=false&title_color=0FAAFF&bg_color=0D1117&text_color=0FAAFF" alt="Top Languages" />
 
 </div>
 
@@ -270,7 +295,7 @@ Custom analytical and list report applications for business intelligence.
 
 | **English** | **Hindi** | **Bengali** |
 |:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Native-Fluency-0FAAFF?style=flat-square) | ![](https://img.shields.io/badge/Fluent-Conversational-1D9E75?style=flat-square) | ![](https://img.shields.io/badge/Native-Fluency-0FAAFF?style=flat-square) |
+| ![](https://img.shields.io/badge/Native-Fluency-0FAAFF?style=flat-square) | ![](https://img.shields.io/badge/Fluent-Conversational-1D9E75?style=flat-square) | ![](https://img.shields.io/badge/Native-Fluency-1D9E75?style=flat-square) |
 
 </div>
 
@@ -310,6 +335,6 @@ I'm passionate about building **scalable enterprise solutions** on SAP BTP, Fior
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=0FAAFF&center=true&vCenter=true&width=800&lines=⭐+Star+this+repo+if+you+find+it+helpful!;💻+Code%2C+Deploy%2C+Innovate!" alt="Footer typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=0FAAFF&center=true&vCenter=true&width=800&lines=⭐+Star+this+repo+if+you+find+it+helpful!;Made+with+❤️+by+Suman+Senapati" alt="Footer Text" />
 
 </div>
