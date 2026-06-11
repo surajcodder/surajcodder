@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Q1b3A4MnNodjZ1d3lqeHRjZ3htZmtkM210dXY5ZnFrNHFycGR5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fuCJ9uhlCa1OpueXi0/giphy.gif" width="230">
 
-<p><em>SAP Technical Consultant at <a href="https://www.sap.com">SAP</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Cloud Architect & Enterprise Solutions Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Cloud Architect & Enterprise Solutions Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: sumansenapati](https://img.shields.io/badge/-sumansenapati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suman-senapati-7520b4215/)](https://www.linkedin.com/in/suman-senapati-7520b4215/)
@@ -341,5 +341,10 @@ I'm passionate about building **scalable enterprise solutions** on SAP BTP, Fior
 <br/><br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=0FAAFF&center=true&vCenter=true&width=800&lines=⭐+Star+this+repo+if+you+find+it+helpful!;Made+with+❤️+by+Suman+Senapati" alt="Footer Text" />
+
+<br/><br/>
+
+### See you soon! 👋
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBqbWVzeXBmcmkxZXRoejN3NzN4aHpxZGF2cXN3YTd5bm40ajE2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8wrfLwp3wkSdRR6bQ9/giphy.gif" alt="Bye Animation" width="100" />
 
 </div>
