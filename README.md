@@ -344,7 +344,6 @@ I'm passionate about building **scalable enterprise solutions** on SAP BTP, Fior
 
 <br/><br/>
 
-### See you soon! 👋
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBqbWVzeXBmcmkxZXRoejN3NzN4aHpxZGF2cXN3YTd5bm40ajE2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8wrfLwp3wkSdRR6bQ9/giphy.gif" alt="Bye Animation" width="100" />
 
 </div>
