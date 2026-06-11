@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFxcGtvNjJjbWtvZ3hkajlqeGE0aXpvbXRsbndmMWMycjllaGxkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Wj7lNjMNDxSmc/giphy.gif" width="50"> Hi, I'm Suman Senapati! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhvNmMxMG1uNGc2cW4wYXE2ZHllNmR5NXM5ejBqZHh3dXB2ZDVvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bukPWLMVsRz38J2/giphy.gif" width="50"> Hi, I'm Suman Senapati</h2>
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Q1b3A4MnNodjZ1d3lqeHRjZ3htZmtkM210dXY5ZnFrNHFycGR5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fuCJ9uhlCa1OpueXi0/giphy.gif" width="230">
 
@@ -22,11 +22,11 @@ const suman = {
                         impact: "Enterprise-scale Solutions",
                         focus: "Cloud Architecture & Performance"
                       },
- challenge: "Building scalable enterprise solutions on SAP BTP and cloud-native platforms"
+  challenge: "Building scalable enterprise solutions on SAP BTP and cloud-native platforms"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 ---
 
@@ -41,11 +41,11 @@ const suman = {
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0FAAFF&center=true&vCenter=true&width=900&height=70&lines=✨+Suman+Senapati;🏗️+SAP+BTP+Cloud+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0FAAFF&center=true&vCenter=true&width=900&height=70&lines=✨+Suman+Senapati;🏗️+SAP+BTP+Architect;☁️+Cloud+Solutions;🚀+Enterprise+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnYxMjUzMW5jdTF2ZGlhdTZ5bHUzcjRnZG9ta3o5bWh6YXFmdWo4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sGIxhunddTUOHlHXgu/giphy.gif" alt="Coding Animation" width="80" style="margin-right: 20px; vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnYxMjUzMW5jdTF2ZGlhdTZ5bHUzcjRnZG9ta3o5bWh6YXFmdWo4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sGIxhunddTUOHlHXgu/giphy.gif" alt="Coding Animation" width="80" />
   <img src="https://img.shields.io/badge/🎯_Professional_Profile-0FAAFF?style=for-the-badge&logoColor=white" alt="Professional Profile" />
 </div>
 
@@ -272,12 +272,12 @@ Custom analytical and list report applications for business intelligence.
 <table width="100%">
 <tr>
 <td width="70%">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=surajcodder&show_icons=true&theme=material-palenight&hide_border=false&title_color=0FAAFF&icon_color=0FAAFF&bg_color=0D1117&text_color=0FAAFF" alt="GitHub Stats" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=surajcodder&show_icons=true&theme=material-palenight&hide_border=false&title_color=0FAAFF&icon_color=0FAAFF&bg_color=0D1117&text_color=8D96BB" alt="Suman's GitHub Stats" />
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajcodder&layout=compact&theme=material-palenight&hide_border=false&title_color=0FAAFF&bg_color=0D1117&text_color=0FAAFF" alt="Top Languages" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajcodder&layout=compact&theme=material-palenight&hide_border=false&title_color=0FAAFF&bg_color=0D1117&text_color=8D96BB" alt="Top Languages" />
 </td>
 <td width="30%" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd4bjhxYnAxZWtjNGJ1cG0ydWNrNmhicDk2dGtoZnpxNTZpdXI2NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13cswZEvNJM7ZK/giphy.gif" alt="Random Anime" width="150" style="border-radius: 10px; margin-top: 10px;" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd4bjhxYnAxZWtjNGJ1cG0ydWNrNmhicDk2dGtoZnpxNTZpdXI2NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13cswZEvNJM7ZK/giphy.gif" alt="Random Anime" width="250" />
 </td>
 </tr>
 </table>
@@ -286,7 +286,7 @@ Custom analytical and list report applications for business intelligence.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=surajcodder&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=0FAAFF&line=1D9E75&point=0FAAFF" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=surajcodder&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=0FAAFF&line=1D9E75&point=0FAAFF&title_color=0FAAFF" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -300,7 +300,7 @@ Custom analytical and list report applications for business intelligence.
 
 | **English** | **Hindi** | **Bengali** |
 |:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Native-Fluency-0FAAFF?style=flat-square) | ![](https://img.shields.io/badge/Fluent-Conversational-1D9E75?style=flat-square) | ![](https://img.shields.io/badge/Native-Fluency-1D9E75?style=flat-square) |
+| ![](https://img.shields.io/badge/Native-Fluency-0FAAFF?style=flat-square) | ![](https://img.shields.io/badge/Fluent-Conversational-1D9E75?style=flat-square) | ![](https://img.shields.io/badge/Native-Fluency-0FAAFF?style=flat-square) |
 
 </div>
 
@@ -340,7 +340,7 @@ I'm passionate about building **scalable enterprise solutions** on SAP BTP, Fior
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=0FAAFF&center=true&vCenter=true&width=800&lines=⭐+Star+this+repo+if+you+find+it+helpful!;Made+with+❤️+by+Suman+Senapati" alt="Footer Text" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=0FAAFF&center=true&vCenter=true&width=800&lines=⭐+Star+this+repo+if+you+find+it+helpful!;🚀+Let's+build+something+amazing+together!;💡+Ideas++-+Code++-+Innovation" alt="Typing Footer" />
 
 <br/><br/>
 
