@@ -46,7 +46,7 @@
 
 | 📊 **Deployments** | 💼 **Projects** | ⏱️ **Experience** | 🏆 **Achievement** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/450+-Fiori%20Apps-0FAAFF?style=flat-square&logo=rocket" /> | <img src="https://img.shields.io/badge/12-Custom%20Projects-1D9E75?style=flat-square&logo=package" /> | <img src="https://img.shields.io/badge/2%2B%20Years-SAP%20Tech-7F77DD?style=flat-square&logo=clockify" /> | <img src="https://img.shields.io/badge/100%25-Client%20Satisfaction-0FAAFF?style=flat-square&logo=star" /> |
+| <img src="https://img.shields.io/badge/450+-Fiori%20Apps-0FAAFF?style=flat-square&logo=rocket" /> | ![Dynamic Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsurajcodder&query=public_repos&label=Public%20Repos&color=1D9E75&style=flat-square&logo=github&logoColor=white) | <img src="https://img.shields.io/badge/2%2B%20Years-SAP%20Tech-7F77DD?style=flat-square&logo=clockify" /> | <img src="https://img.shields.io/badge/100%25-Client%20Satisfaction-0FAAFF?style=flat-square&logo=star" /> |
 
 </div>
 
