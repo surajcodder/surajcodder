@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://github.com/surajcodder">
-    <img src="BLack Minimalist Corporate Staff Identity LinkedIn Banner.jpg" alt="Suman Senapati Banner" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(15, 170, 255, 0.3); transition: all 0.3s ease;"/>
+    <img src="BLack Minimalist Corporate Staff Identity LinkedIn Banner.jpg" alt="Suman Senapati Banner" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(15, 170, 255, 0.3);" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0FAAFF&center=true&vCenter=true&width=900&height=70&lines=✨+Suman+Senapati;🏗️+SAP+BTP+Cloud+Architect;⚡+Enterprise+Solutions+Engineer;🚀+Fiori+Innovation+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0FAAFF&center=true&vCenter=true&width=900&height=70&lines=✨+Suman+Senapati;🏗️+SAP+BTP+Cloud+Architect" alt="Typing Animation" />
 </div>
 
 <p align="center">
@@ -73,7 +73,7 @@
 
 | 📊 **Deployments** | 💼 **Projects** | ⏱️ **Experience** | 🏆 **Achievement** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/450+-Fiori%20Apps-0FAAFF?style=flat-square&logo=rocket" /> | <img src="https://img.shields.io/badge/12-Custom%20Projects-1D9E75?style=flat-square&logo=package" /> | <img src="https://img.shields.io/badge/~2yrs-Enterprise%20SAP-7F77DD?style=flat-square&logo=clock" /> | <img src="https://img.shields.io/badge/8.69-MCA%20CGPA-FFB90C?style=flat-square&logo=award" /> |
+| <img src="https://img.shields.io/badge/450+-Fiori%20Apps-0FAAFF?style=flat-square&logo=rocket" /> | <img src="https://img.shields.io/badge/12-Custom%20Projects-1D9E75?style=flat-square&logo=package" /> | <img src="https://img.shields.io/badge/2%2B-Years-7F77DD?style=flat-square&logo=calendar" /> | <img src="https://img.shields.io/badge/500%2B-Daily%20Users-FF6B6B?style=flat-square&logo=users" /> |
 
 </div>
 
@@ -346,9 +346,9 @@ Custom analytical and list report applications for business intelligence.
 
 <div align="center">
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=surajcodder&show_icons=true&theme=material-palenight&hide_border=false&title_color=0FAAFF&icon_color=0FAAFF&bg_color=0D1117&text_color=ffffff" alt="GitHub Stats" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=surajcodder&show_icons=true&theme=material-palenight&hide_border=false&title_color=0FAAFF&icon_color=0FAAFF&bg_color=0D1117&text_color=e0e0e0" alt="GitHub Stats" />
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajcodder&layout=compact&theme=material-palenight&hide_border=false&title_color=0FAAFF&bg_color=0D1117&text_color=ffffff" alt="Top Languages" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajcodder&layout=compact&theme=material-palenight&hide_border=false&title_color=0FAAFF&bg_color=0D1117&text_color=e0e0e0" alt="Top Languages" />
 
 </div>
 
@@ -368,7 +368,7 @@ Custom analytical and list report applications for business intelligence.
 
 | **English** | **Hindi** | **Bengali** |
 |:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Native-Fluency-0FAAFF?style=flat-square) | ![](https://img.shields.io/badge/Fluent-Conversational-1D9E75?style=flat-square) | ![](https://img.shields.io/badge/Native-Fluency-0FAAFF?style=flat-square) |
+| ![](https://img.shields.io/badge/Native-Fluency-0FAAFF?style=flat-square) | ![](https://img.shields.io/badge/Fluent-Conversational-1D9E75?style=flat-square) | ![](https://img.shields.io/badge/Native-Fluency-FF6B6B?style=flat-square) |
 
 </div>
 
@@ -408,6 +408,6 @@ I'm passionate about building **scalable enterprise solutions** on SAP BTP, Fior
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=0FAAFF&center=true&vCenter=true&width=800&lines=⭐+Star+this+repo+if+you+find+it+helpful!;💻+Let's+build+amazing+solutions+together!;🌟+Thank+you+for+visiting+my+profile!" alt="Footer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=0FAAFF&center=true&vCenter=true&width=800&lines=⭐+Star+this+repo+if+you+find+it+helpful!;💻+Let's+build+amazing+solutions+together!" alt="Call to Action" />
 
 </div>
