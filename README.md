@@ -1,3 +1,37 @@
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFxcGtvNjJjbWtvZ3hkajlqeGE0aXpvbXRsbndmMWMycjllaGxkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Wj7lNjMNDxSmc/giphy.gif" width="50"> Hi, I'm Suman Senapati! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Q1b3A4MnNodjZ1d3lqeHRjZ3htZmtkM210dXY5ZnFrNHFycGR5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fuCJ9uhlCa1OpueXi0/giphy.gif" width="230">
+
+<p><em>SAP Technical Consultant at <a href="https://www.sap.com">SAP</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Cloud Architect & Enterprise Solutions Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Linkedin: sumansenapati](https://img.shields.io/badge/-sumansenapati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suman-senapati-7520b4215/)](https://www.linkedin.com/in/suman-senapati-7520b4215/)
+[![GitHub surajcodder](https://img.shields.io/github/followers/surajcodder?label=follow&style=social)](https://github.com/surajcodder)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const suman = {
+  pronouns: "he" | "him",
+  code: [JavaScript, TypeScript, HTML, CSS, ABAP, Java, Python],
+  tools: [SAPUI5, Fiori Elements, React, Node.js, CAP, Docker, Postman],
+  expertise: ["SAP BTP", "Cloud Foundry", "HANA Cloud", "Microservices"],
+  projects: {
+                        deployments: "450+ Fiori Applications",
+                        impact: "Enterprise-scale Solutions",
+                        focus: "Cloud Architecture & Performance"
+                      },
+ challenge: "Building scalable enterprise solutions on SAP BTP and cloud-native platforms"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+<br/>
+
 <div align="center">
   <a href="https://github.com/surajcodder">
     <img src="BLack Minimalist Corporate Staff Identity LinkedIn Banner.jpg" alt="Suman Senapati Banner" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(15, 170, 255, 0.3);" />
@@ -10,9 +44,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0FAAFF&center=true&vCenter=true&width=900&height=70&lines=✨+Suman+Senapati;🏗️+SAP+BTP+Cloud+Architect" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎯_Professional_Profile-0FAAFF?style=for-the-badge&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnYxMjUzMW5jdTF2ZGlhdTZ5bHUzcjRnZG9ta3o5bWh6YXFmdWo4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sGIxhunddTUOHlHXgu/giphy.gif" alt="Coding Animation" width="80" style="margin-right: 20px; vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/🎯_Professional_Profile-0FAAFF?style=for-the-badge&logoColor=white" alt="Professional Profile" />
+</div>
 
 <p align="center">
   <strong style="font-size: 16px;">SAP Technical Consultant</strong> • <strong>Cloud Architect</strong> • <strong>Enterprise Solutions Developer</strong>
@@ -37,45 +72,6 @@
 </div>
 
 <br/><br/>
-
----
-
-## 🎨 Animations Gallery
-
-<div align="center">
-
-### 💻 Coding
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnYxMjUzMW5jdTF2ZGlhdTZ5bHUzcjRnZG9ta3o5bWh6YXFmdWo4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sGIxhunddTUOHlHXgu/giphy.gif" alt="Coding Animation" width="200" />
-
-### 👤 Profile
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Q1b3A4MnNodjZ1d3lqeHRjZ3htZmtkM210dXY5ZnFrNHFycGR5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fuCJ9uhlCa1OpueXi0/giphy.gif" alt="Profile Animation" width="200" />
-
-### 👋 Hi
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFxcGtvNjJjbWtvZ3hkajlqeGE0aXpvbXRsbndmMWMycjllaGxkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Wj7lNjMNDxSmc/giphy.gif" alt="Hi Animation" width="200" />
-
-### 👋 Bye
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBqbWVzeXBmcmkxZXRoejN3NzN4aHpxZGF2cXN3YTd5bm40ajE2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8wrfLwp3wkSdRR6bQ9/giphy.gif" alt="Bye Animation" width="200" />
-
-### 🎌 Random Anime
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd4bjhxYnAxZWtjNGJ1cG0ydWNrNmhicDk2dGtoZnpxNTZpdXI2NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13cswZEvNJM7ZK/giphy.gif" alt="Random Anime Animation" width="200" />
-
-</div>
-
-<br/>
-
----
-
-## 🎯 Impact at a Glance
-
-<div align="center">
-
-| 📊 **Deployments** | 💼 **Projects** | ⏱️ **Experience** | 🏆 **Achievement** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/450+-Fiori%20Apps-0FAAFF?style=flat-square&logo=rocket" /> | ![Dynamic Repos](https://img.shields.io/badge/15+-Projects-0FAAFF?style=flat-square&logo=github" /> | <img src="https://img.shields.io/badge/5+-Years-0FAAFF?style=flat-square&logo=clock" /> | <img src="https://img.shields.io/badge/Enterprise%20Scale-Solutions-1D9E75?style=flat-square&logo=star" /> |
-
-</div>
-
-<br/>
 
 ---
 
@@ -273,9 +269,18 @@ Custom analytical and list report applications for business intelligence.
 
 <div align="center">
 
+<table width="100%">
+<tr>
+<td width="70%">
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=surajcodder&show_icons=true&theme=material-palenight&hide_border=false&title_color=0FAAFF&icon_color=0FAAFF&bg_color=0D1117&text_color=0FAAFF" alt="GitHub Stats" />
 
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajcodder&layout=compact&theme=material-palenight&hide_border=false&title_color=0FAAFF&bg_color=0D1117&text_color=0FAAFF" alt="Top Languages" />
+</td>
+<td width="30%" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd4bjhxYnAxZWtjNGJ1cG0ydWNrNmhicDk2dGtoZnpxNTZpdXI2NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13cswZEvNJM7ZK/giphy.gif" alt="Random Anime" width="150" style="border-radius: 10px; margin-top: 10px;" />
+</td>
+</tr>
+</table>
 
 </div>
 
