@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0FAAFF&center=true&vCenter=true&width=900&height=70&lines=✨+Suman+Senapati;🏗️+SAP+BTP+Cloud+Architect" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0FAAFF&center=true&vCenter=true&width=900&height=70&lines=✨+Suman+Senapati;🏗️+SAP+BTP+Cloud+Architect" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -21,47 +21,20 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/suman-senapati-7520b4215" target="_blank" style="display: inline-block; animation: bounce 2s infinite;">
+  <a href="https://www.linkedin.com/in/suman-senapati-7520b4215" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/surajcodder" target="_blank" style="display: inline-block; animation: bounce 2s 0.1s infinite;">
+  <a href="https://github.com/surajcodder" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:sumansenapati9933@gmail.com" style="display: inline-block; animation: bounce 2s 0.2s infinite;">
+  <a href="mailto:sumansenapati9933@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/✅_Open_to_Collaborate-1D9E75?style=for-the-badge" alt="Status" />
 </div>
-
-<style>
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-5px); }
-  }
-  @keyframes glow {
-    0%, 100% { box-shadow: 0 0 20px rgba(15, 170, 255, 0.5); }
-    50% { box-shadow: 0 0 30px rgba(15, 170, 255, 0.8); }
-  }
-  @keyframes slideInRight {
-    from { opacity: 0; transform: translateX(50px); }
-    to { opacity: 1; transform: translateX(0); }
-  }
-  @keyframes slideInLeft {
-    from { opacity: 0; transform: translateX(-50px); }
-    to { opacity: 1; transform: translateX(0); }
-  }
-  @keyframes fadeInUp {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.7; }
-  }
-</style>
 
 <br/><br/>
 
@@ -73,7 +46,7 @@
 
 | 📊 **Deployments** | 💼 **Projects** | ⏱️ **Experience** | 🏆 **Achievement** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/450+-Fiori%20Apps-0FAAFF?style=flat-square&logo=rocket" /> | <img src="https://img.shields.io/badge/12-Custom%20Projects-1D9E75?style=flat-square&logo=package" /> | <img src="https://img.shields.io/badge/2%2B-Years-7F77DD?style=flat-square&logo=calendar" /> | <img src="https://img.shields.io/badge/500%2B-Daily%20Users-FF6B6B?style=flat-square&logo=users" /> |
+| <img src="https://img.shields.io/badge/450+-Fiori%20Apps-0FAAFF?style=flat-square&logo=rocket" /> | <img src="https://img.shields.io/badge/12-Custom%20Projects-1D9E75?style=flat-square&logo=package" /> | <img src="https://img.shields.io/badge/2%2B%20Years-SAP%20Tech-7F77DD?style=flat-square&logo=clockify" /> | <img src="https://img.shields.io/badge/100%25-Client%20Satisfaction-0FAAFF?style=flat-square&logo=star" /> |
 
 </div>
 
@@ -346,9 +319,9 @@ Custom analytical and list report applications for business intelligence.
 
 <div align="center">
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=surajcodder&show_icons=true&theme=material-palenight&hide_border=false&title_color=0FAAFF&icon_color=0FAAFF&bg_color=0D1117&text_color=e0e0e0" alt="GitHub Stats" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=surajcodder&show_icons=true&theme=material-palenight&hide_border=false&title_color=0FAAFF&icon_color=0FAAFF&bg_color=0D1117" alt="GitHub Stats" />
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajcodder&layout=compact&theme=material-palenight&hide_border=false&title_color=0FAAFF&bg_color=0D1117&text_color=e0e0e0" alt="Top Languages" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajcodder&layout=compact&theme=material-palenight&hide_border=false&title_color=0FAAFF&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages" />
 
 </div>
 
@@ -368,7 +341,7 @@ Custom analytical and list report applications for business intelligence.
 
 | **English** | **Hindi** | **Bengali** |
 |:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Native-Fluency-0FAAFF?style=flat-square) | ![](https://img.shields.io/badge/Fluent-Conversational-1D9E75?style=flat-square) | ![](https://img.shields.io/badge/Native-Fluency-FF6B6B?style=flat-square) |
+| ![](https://img.shields.io/badge/Native-Fluency-0FAAFF?style=flat-square) | ![](https://img.shields.io/badge/Fluent-Conversational-1D9E75?style=flat-square) | ![](https://img.shields.io/badge/Native-Fluency-0FAAFF?style=flat-square) |
 
 </div>
 
@@ -408,6 +381,6 @@ I'm passionate about building **scalable enterprise solutions** on SAP BTP, Fior
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=0FAAFF&center=true&vCenter=true&width=800&lines=⭐+Star+this+repo+if+you+find+it+helpful!;💻+Let's+build+amazing+solutions+together!" alt="Call to Action" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=0FAAFF&center=true&vCenter=true&width=800&lines=⭐+Star+this+repo+if+you+find+it+helpful!;💻+Code%2C+Deploy%2C+Innovate!" alt="Footer typing animation" />
 
 </div>
