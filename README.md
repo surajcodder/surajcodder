@@ -14,9 +14,9 @@
 ```javascript
 const suman = {
   pronouns: "he" | "him",
-  code: [JavaScript, TypeScript, HTML, CSS, ABAP, Java, Python],
+  code: [JavaScript, TypeScript, HTML, CSS, ABAP, Java, Node.js],
   tools: [SAPUI5, Fiori Elements, React, Node.js, CAP, Docker, Postman],
-  expertise: ["SAP BTP", "Cloud Foundry", "HANA Cloud", "Microservices"],
+  expertise: ["SAP BTP", "Cloud Foundry", "HANA Cloud", "WorkZone", "Build Automation"],
   projects: {
                         deployments: "450+ Fiori Applications",
                         impact: "Enterprise-scale Solutions",
